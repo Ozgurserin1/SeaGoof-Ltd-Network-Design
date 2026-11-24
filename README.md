@@ -4,6 +4,11 @@
 
 A three-floor enterprise network design and evaluation project developed using Cisco Packet Tracer. The project demonstrates VLAN segmentation, inter-VLAN routing, dynamic IP addressing, wireless connectivity, internal business services, and network security verification.
 
+## Complete Network Topology
+
+![SeaGoof Ltd Three-Floor Network Topology](SeaGoof_Complete_Network_Topology.png)
+
+
 ## 1. Project Overview
 
 SeaGoof Ltd is a medium-sized company relocating to a new office in Ulverston, Cumbria, United Kingdom.
