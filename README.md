@@ -103,6 +103,14 @@ The repository is intended to contain:
 - Selected configuration and testing evidence
 - Troubleshooting and corrective-action records
 
+### Technical Documentation
+
+- [Network Configuration](NETWORK_CONFIGURATION.md) — VLANs, IP addressing, routing, switching, DHCP and network security.
+
+- [Network Test Results](TEST_RESULTS.md) — 15 key verification tests with recorded outcomes and evidence references.
+
+- [Troubleshooting and Corrective Actions](TROUBLESHOOTING.md) — Diagnosed network issues, corrective actions and verification results.
+
 ## 8. Cost Evaluation
 
 The assessment report presents an illustrative production deployment budget:
