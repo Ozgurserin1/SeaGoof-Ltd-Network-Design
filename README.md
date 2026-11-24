@@ -87,6 +87,12 @@ Documented tests include:
 
 Recorded successful tests apply to the specific devices and conditions examined. They do not establish complete production readiness or verified external Internet connectivity.
 
+### Verification Evidence
+
+The selected Cisco Packet Tracer screenshots are available in the [Network Testing Evidence](evidence/) directory.
+
+These include VLAN trunk verification, DHCP allocation, DNS resolution, web and email functionality, guest network isolation, ACL configuration, and router verification.
+
 ## 7. Project Documentation
 
 The repository is intended to contain:
